@@ -1,2 +1,2 @@
 # hello-world
-First Github project tp try out CI-CD later 
+First Github project to try out CI-CD later 
